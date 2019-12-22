@@ -1,2 +1,3 @@
-# sir-skeleton
-Starting point for Socially Intelligent Robotics (SIR) course 2019
+# SEB; the seeing eye bot
+Group 8
+For our final code, see Final.crg
